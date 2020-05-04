@@ -1,2 +1,3 @@
-# Facial-smile-recognition-
-Matlab
+# Facial-smile-recognition
+
+based on PCA and MNN algorithm
